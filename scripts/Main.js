@@ -1,10 +1,9 @@
 /*
 Header Comments:
 Name: Jaden Parris, Nathaniel Mais
-Student ID: 100774161 and <Nathaniel's ID>
-Date of completion: January 27th, 2024
+Student ID: 100774161 and <100843860>
+Date of completion: Febuary 24th, 2024
 */
-
 "use strict";
 
 (function () {
